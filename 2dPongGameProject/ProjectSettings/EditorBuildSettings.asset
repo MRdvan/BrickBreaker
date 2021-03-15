@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Ponggame/menu.unity
+    guid: f4b6b6f1c3d759d40bef3c9693efff5d
+  - enabled: 1
+    path: Assets/Scenes/Ponggame/ChoosingScene.unity
+    guid: e8ca7a3874195bb42bfbeddcf840410a
+  - enabled: 1
+    path: Assets/Scenes/Ponggame/shop.unity
+    guid: f01085dc4cae59d4b98daab0986ea048
+  - enabled: 1
+    path: Assets/Scenes/Ponggame/levels.unity
+    guid: 586c607b5e81cc14993b826ae28f8587
+  - enabled: 1
+    path: Assets/Scenes/Ponggame/level1.unity
+    guid: 452960b20ddab644ea21a83e25d123b3
+  - enabled: 1
+    path: Assets/Scenes/Ponggame/level2.unity
+    guid: 0877dc4fcc377d9468e7d4ae67803093
+  - enabled: 1
+    path: Assets/Scenes/Ponggame/level3.unity
+    guid: 618681b22cbb82947a5850ada7814b99
+  - enabled: 1
+    path: Assets/Scenes/Ponggame/level4.unity
+    guid: 87cec2e2563fdb14786f4cd32444554e
+  - enabled: 1
+    path: Assets/Scenes/Ponggame/level5.unity
+    guid: 1a071856719c1a94392d40f29130feae
+  - enabled: 1
+    path: Assets/Scenes/Ponggame/level6.unity
+    guid: 4caa18a7549e2434cba339b107accb14
+  - enabled: 1
+    path: Assets/Scenes/Ponggame/credits.unity
+    guid: fbd194f5d438505478f66dd6338b5e37
+  m_configObjects: {}
